@@ -1,0 +1,110 @@
+Egg McMuffin
+Egg White Delight
+Sausage McMuffin
+Sausage McMuffin with Egg
+Sausage McMuffin with Egg Whites
+Steak & Egg McMuffin
+Bacon, Egg & Cheese Biscuit (Regular Biscuit)
+Bacon, Egg & Cheese Biscuit (Large Biscuit)
+Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)
+Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)
+Sausage Biscuit (Regular Biscuit)
+Sausage Biscuit (Large Biscuit)
+Sausage Biscuit with Egg (Regular Biscuit)
+Sausage Biscuit with Egg (Large Biscuit)
+Sausage Biscuit with Egg Whites (Regular Biscuit)
+Sausage Biscuit with Egg Whites (Large Biscuit)
+Southern Style Chicken Biscuit (Regular Biscuit)
+Southern Style Chicken Biscuit (Large Biscuit)
+Steak & Egg Biscuit (Regular Biscuit)
+Bacon, Egg & Cheese McGriddles
+Bacon, Egg & Cheese McGriddles with Egg Whites
+Sausage McGriddles
+Sausage, Egg & Cheese McGriddles
+Sausage, Egg & Cheese McGriddles with Egg Whites
+Bacon, Egg & Cheese Bagel
+Bacon, Egg & Cheese Bagel with Egg Whites
+Steak, Egg & Cheese Bagel
+Big Breakfast (Regular Biscuit)
+Big Breakfast (Large Biscuit)
+Big Breakfast with Egg Whites (Regular Biscuit)
+Big Breakfast with Egg Whites (Large Biscuit)
+Big Breakfast with Hotcakes (Regular Biscuit)
+Big Breakfast with Hotcakes (Large Biscuit)
+Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit)
+Big Breakfast with Hotcakes and Egg Whites (Large Biscuit)
+Hotcakes
+Hotcakes and Sausage
+Sausage Burrito
+Hash Brown
+Cinnamon Melts
+Fruit & Maple Oatmeal
+Fruit & Maple Oatmeal without Brown Sugar
+Big Mac
+Quarter Pounder with Cheese
+Quarter Pounder with Bacon & Cheese
+Quarter Pounder with Bacon Habanero Ranch
+Quarter Pounder Deluxe
+Double Quarter Pounder with Cheese
+Hamburger
+Cheeseburger
+Double Cheeseburger
+Bacon Clubhouse Burger
+McDouble
+Bacon McDouble
+Daily Double
+JalapeÃ±o Double
+McRib
+Premium Crispy Chicken Classic Sandwich
+Premium Grilled Chicken Classic Sandwich
+Premium Crispy Chicken Club Sandwich
+Premium Grilled Chicken Club Sandwich
+Premium Crispy Chicken Ranch BLT Sandwich
+Premium Grilled Chicken Ranch BLT Sandwich
+Bacon Clubhouse Crispy Chicken Sandwich
+Bacon Clubhouse Grilled Chicken Sandwich
+Southern Style Crispy Chicken Sandwich
+McChicken
+Bacon Cheddar McChicken
+Bacon Buffalo Ranch McChicken
+Buffalo Ranch McChicken
+Premium McWrap Chicken & Bacon (Crispy Chicken)
+Premium McWrap Chicken & Bacon (Grilled Chicken)
+Premium McWrap Chicken & Ranch (Crispy Chicken)
+Premium McWrap Chicken & Ranch (Grilled Chicken)
+Premium McWrap Southwest Chicken (Crispy Chicken)
+Premium McWrap Southwest Chicken (Grilled Chicken)
+Premium McWrap Chicken Sweet Chili (Crispy Chicken)
+Premium McWrap Chicken Sweet Chili (Grilled Chicken)
+Chicken McNuggets (4 piece)
+Chicken McNuggets (6 piece)
+Chicken McNuggets (10 piece)
+Chicken McNuggets (20 piece)
+Chicken McNuggets (40 piece)
+Filet-O-Fish
+Premium Bacon Ranch Salad (without Chicken)
+Premium Bacon Ranch Salad with Crispy Chicken
+Premium Bacon Ranch Salad with Grilled Chicken
+Premium Southwest Salad (without Chicken)
+Premium Southwest Salad with Crispy Chicken
+Premium Southwest Salad with Grilled Chicken
+Chipotle BBQ Snack Wrap (Crispy Chicken)
+Chipotle BBQ Snack Wrap (Grilled Chicken)
+Honey Mustard Snack Wrap (Crispy Chicken)
+Honey Mustard Snack Wrap (Grilled Chicken)
+Ranch Snack Wrap (Crispy Chicken)
+Ranch Snack Wrap (Grilled Chicken)
+Small French Fries
+Medium French Fries
+Large French Fries
+Kids French Fries
+Side Salad
+Apple Slices
+Fruit 'n Yogurt Parfait
+Baked Apple Pie
+Chocolate Chip Cookie
+Oatmeal Raisin Cookie
+Kids Ice Cream Cone
+Hot Fudge Sundae
+Hot Caramel Sundae
+Strawberry Sundae
